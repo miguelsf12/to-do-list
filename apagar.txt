@@ -1,0 +1,4 @@
+usando um aparamentro pra função de apagar, e atribuindo a esse parametro um .target (alvo), consigo determinar o elemento q recebeu o onclick / função de apagar
+
+e crio dai uma condição de que se o lugar onde cliquei contem uma class tal ele irá remover
+.remove()
